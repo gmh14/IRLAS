@@ -53,4 +53,4 @@ The last printed lines should read:
 IRLAS avg cost: 9.308ms
 ```
 
-The above latency is measured on TiTan Xp with 16 batch size, 224x224 input size. The latency may have a difference of around $$\pm0.5$$ms due to the fluctuation of occupancy rate or the difference of platform. When measured on 1080Ti, the latency will increase around $$1$$ms.
+The above latency is measured on TiTan Xp with 16 batch size, 224x224 input size. The latency may have a difference of around $\pm0.5$ms due to the fluctuation of occupancy rate or the difference of platform. When measured on 1080Ti, the latency will increase around $1$ms.
