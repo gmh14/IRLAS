@@ -1,0 +1,5 @@
+[2019-10-03 16:31:56,921][    validate.py][line: 133][    INFO]   Total params: 9.96M
+[2019-10-03 16:32:08,466][    validate.py][line:  70][    INFO] Test: [0/196]	Time 11.517 (11.517)	Loss 1.1165 (1.1165)	Prec@1 72.266 (72.266)	Prec@5 92.578 (92.578)
+[2019-10-03 16:32:54,962][    validate.py][line:  70][    INFO] Test: [100/196]	Time 0.205 (0.574)	Loss 1.1337 (1.0932)	Prec@1 73.438 (75.174)	Prec@5 91.016 (92.168)
+[2019-10-03 16:33:42,083][    validate.py][line:  72][    INFO]  * Prec@1 75.150 Prec@5 92.090
+IRLAS avg cost: 9.308ms
